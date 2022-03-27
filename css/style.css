@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 4rem;
+    color: rgb(184, 180, 180);
+    font-family: cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.drum {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.pressed {
+    background-color: #746262;
+}
